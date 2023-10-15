@@ -29,7 +29,6 @@ The landing page is designed to engage users and encourage them to explore vario
 
 - **Interactive Navigation**: The navigation system is user-friendly, allowing users to move seamlessly through the page.
 
-- **Responsive Design**: The landing page is designed to be responsive, ensuring it looks and functions well on various devices and screen sizes.
 
 - **SheryJS Library Integration**: The SheryJS library is used to enhance the animation and interaction aspects of the page.
 
